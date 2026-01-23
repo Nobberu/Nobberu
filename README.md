@@ -9,5 +9,5 @@
 - 🤝 Looking to collaborate on **visual needed projects**.
 
 <h3 align="center">&nbsp;</h3>
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Nobberu&border_color=454545&bg_color=121212&text_color=EEEFF1&show_icons=true&title_color=ec004a&icon_color=ec004a" />
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nobberu&layout=compact&border_color=454545&bg_color=121212&text_color=EEEFF1&show_icons=true&title_color=ec004a&icon_color=ec004a" />
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Nobberu&border_color=454545&bg_color=121212&text_color=EEEFF1&show_icons=true&title_color=ec004a&icon_color=ec004a" />
