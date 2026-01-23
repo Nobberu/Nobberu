@@ -12,10 +12,10 @@
 
 <h5>&nbsp;</h5>
 <h3>Used Languages and Tools:</h3>
-<p>• Development</p>
+<p>• <i>Development</i></p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,next,react,gsap,tailwind,astro,laravel,html,css,zed&theme=dark" />
 <br/>
-<p>• Design & Visuals</p>
+<p>• <i>Design & Visuals</i></p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,affinity,ps,lr&theme=dark" />
 
 
