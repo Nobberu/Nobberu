@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi! Yes, I am Nobbel 👀</h1>
+<h3 align="center">Computer Science student focused on Frontend Development and Interaction Design.</h3>
+&nbsp;
 
-<!--
-**Nobberu/Nobberu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on `tampak. dev` start-up.
 
-Here are some ideas to get you started:
+- 📖 Learning deeper about Websites, Visuals and Interactions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 Looking to collaborate on **visual needed projects**.
+
+<h3 align="center">&nbsp;</h3>
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Nobberu&border_color=454545&bg_color=121212&text_color=EEEFF1&show_icons=true&title_color=ec004a&icon_color=ec004a" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nobberu&layout=compact&border_color=454545&bg_color=121212&text_color=EEEFF1&show_icons=true&title_color=ec004a&icon_color=ec004a" />
