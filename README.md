@@ -10,19 +10,15 @@
 - 🤝 Looking to collaborate on **visual needed projects**.
 - ✨ Fun fact: I'm also a hobbyist photographer too.
 
-<h5>&nbsp;</h5>
+<p>&nbsp;</p>
 <h3>Used Languages and Tools:</h3>
 <p>• <i>Development</i></p>
-<a href="#">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,next,react,gsap,tailwind,astro,laravel,php,html,css,zed&theme=dark" />
-</a>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,next,react,gsap,tailwind,astro,laravel,php,html,css,zed&theme=dark" />
 <br/>
 <p>• <i>Design & Visuals</i></p>
-<a href="#">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,affinity,ps,lr&theme=dark" />
-</a>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,affinity,ps,lr&theme=dark" />
 
-<h5>&nbsp;</h5>
+<p>&nbsp;</p>
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nobberu&layout=compact&border_color=353535&bg_color=121212&text_color=EEEFF1&show_icons=true&title_color=ec004a&icon_color=ec004a" />
 <img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=Nobberu&border_color=353535&bg_color=121212&text_color=EEEFF1&show_icons=true&title_color=ec004a&icon_color=ec004a&custom_title=Nobbel's&nbsp;Github&nbsp;Stats&rank_icon=github" />
 &nbsp;
