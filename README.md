@@ -6,8 +6,11 @@
 &nbsp;
 
 - 🔭 Currently working on `tampak. dev` start-up.
+
 - 📖 Learning deeper about Websites, Visuals and Interactions.
+
 - 🤝 Looking to collaborate on **visual needed projects**.
+
 - ✨ Fun fact: I'm also a hobbyist photographer too.
 
 <p>&nbsp;</p>
