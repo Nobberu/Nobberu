@@ -5,7 +5,7 @@
 
 &nbsp;
 
-- 🔭 Currently working on `tampak. dev` start-up.
+- 🔭 Currently working on `tampak. dev` startup.
 
 - 📖 Learning deeper about Websites, Visuals and Interactions.
 
