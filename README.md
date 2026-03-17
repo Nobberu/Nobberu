@@ -3,7 +3,7 @@
 
 &nbsp;
 
-- 🔭 Currently working on `tampak. dev` startup.
+- 🔭 Currently working on <a href="https://github.com/tampak-dev" target="_blank">`tampak. dev`</a> startup.
 
 - 📖 Learning deeper about Websites, Visuals and Interactions.
 
