@@ -13,7 +13,7 @@
 
 <p>&nbsp;</p>
 
-## 🔗 Let's Connect!
+<h2>Let's Connect</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nobberu/" target="_blank">
@@ -29,7 +29,6 @@
 <h3>Used Languages and Tools:</h3>
 <p>• <i>Development</i></p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=next,react,gsap,tailwind,astro,reactnative,expo,ts,js,laravel,php,html,css,zed&theme=dark" />
-<br/>
 <p>• <i>Design, Management & Visuals</i></p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,affinity,ps,lr,obsidian,notion&theme=dark" />
 
