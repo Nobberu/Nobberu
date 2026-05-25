@@ -28,7 +28,7 @@
 
 <h3>Used Languages and Tools:</h3>
 <p>• <i>Development</i></p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=next,gsap,tailwind,astro,expo,reactnative,ts,js,laravel,php,html,css,zed&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=astro,svelte,cloudflare,gsap,tailwind,expo,next,reactnative,ts,js,laravel,php,html,css,zed&theme=dark" />
 <p>• <i>Design, Management & Visuals</i></p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,affinity,ps,lr,obsidian,notion&theme=dark" />
 
