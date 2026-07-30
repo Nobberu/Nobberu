@@ -35,8 +35,6 @@
 <p>&nbsp;</p>
 
 <p align="center">
-<img align="left" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Nobberu&layout=compact&hide_border=true&bg_color=f5f5f3&text_color=060605&show_icons=true&title_color=060605&icon_color=060605&v=1" />
-
 <img align="left" width="53%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nobberu&hide_border=true&bg_color=f5f5f3&text_color=060605&show_icons=true&title_color=060605&icon_color=060605&custom_title=Nobbel's&nbsp;Github&nbsp;Stats&rank_icon=github&v=1" />
 </p>
 &nbsp;
